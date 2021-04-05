@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BinotelApp</string>
+    <!-- DetailActivity -->
+    <string name="repo">Репозиторий</string>
+    <string name="followers">Підписники</string>
+    <string name="following">Підписки</string>
+    <string name="dots_separator">.</string>
+    <!-- MainActivity -->
+    <string name="search_button">Пошук</string>
+    <string name="et_hide_name">Імя юзера</string>
+    <string name="edit_name">Введіть імя</string>
+    <!-- ReposDetailActivity -->
+    <string name="repos_detail_activity_title">Деталі репозиторію</string>
+    <string name="detail_name_repo_title">Імя:</string>
+    <string name="detail_Lang_title">Мова:</string>
+    <string name="detail_repo_link_title">Лінк:</string>
+</resources>
